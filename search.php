@@ -16,3 +16,4 @@
 		echo "Maaf, data yang Anda cari tidak ada";
 	}
 ?>
+<a href="list.php">Back</a>
